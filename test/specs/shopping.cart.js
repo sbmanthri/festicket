@@ -1,5 +1,4 @@
 const EventPage = require('../pageobjects/event.page');
-const loginPage = require('../pageobjects/login.page');
 const LoginPage = require('../pageobjects/login.page');
 const ShopPage = require('../pageobjects/shop.page');
 
